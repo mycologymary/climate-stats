@@ -14,4 +14,4 @@ Rscript source-code/make-plot.R
 
 The input data is in `data`. The results of the analysis are in `out`.
 
-Sources for the data used are found in the file _data-sources.txt_.__
+Sources for the data used are found in the file _data-sources.txt_.
