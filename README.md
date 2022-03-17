@@ -9,7 +9,7 @@ Rscript src/combine-data.R
 Then use this command to create a visualisation:
 
 ```
-Rscript source-code/make-plot.R
+Rscript src/make-plot.R
 ```
 
 The input data is in `data`. The results of the analysis are in `out`.
